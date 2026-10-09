@@ -1,0 +1,16 @@
+# Gizli bilgiler — ASLA commit'leme
+.env
+.spotify_cache
+browser.json
+istek.txt
+
+# Kişisel çalışma verisi
+state.json
+bulunamayanlar.txt
+sync.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
